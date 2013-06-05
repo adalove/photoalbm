@@ -13930,3 +13930,138 @@ Processing by AlbumsController#show as HTML
   Rendered layouts/_nav.html.erb (0.2ms)
   Rendered layouts/_footer.html.erb (0.0ms)
 Completed 200 OK in 229ms (Views: 224.7ms | ActiveRecord: 2.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:27:01 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.3ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.2ms)
+  Rendered home/index.html.haml within layouts/application (4.4ms)
+Compiled photoalbm.css  (14ms)  (pid 69317)
+Compiled application.css  (8ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 53ms (Views: 52.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:27:05 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.3ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.0ms)
+  Rendered home/index.html.haml within layouts/application (3.0ms)
+  Rendered layouts/_nav.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:27:16 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.5ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (3.2ms)
+  Rendered home/index.html.haml within layouts/application (4.3ms)
+Compiled photoalbm.css  (3ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 72ms (Views: 70.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:28:00 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.2ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.0ms)
+  Rendered home/index.html.haml within layouts/application (3.0ms)
+Compiled photoalbm.css  (3ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:28:14 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.3ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.1ms)
+  Rendered home/index.html.haml within layouts/application (3.3ms)
+Compiled photoalbm.css  (4ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:29:02 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.2ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (1.9ms)
+  Rendered home/index.html.haml within layouts/application (4.0ms)
+Compiled photoalbm.css  (3ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.2ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 34.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/albums/new" for 127.0.0.1 at 2013-06-05 17:29:12 -0400
+Processing by AlbumsController#new as JS
+  Rendered albums/_form.html.haml (9.6ms)
+  Rendered albums/new.js.erb (11.1ms)
+Completed 200 OK in 15ms (Views: 14.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:49:51 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.3ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.8ms)
+  Rendered home/index.html.haml within layouts/application (4.0ms)
+Compiled photoalbm.css  (4ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 43ms (Views: 41.7ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:50:09 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.3ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.0ms)
+  Rendered home/index.html.haml within layouts/application (3.0ms)
+Compiled photoalbm.css  (5ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 37ms (Views: 36.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:50:15 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.4ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (3.0ms)
+  Rendered home/index.html.haml within layouts/application (4.0ms)
+Compiled photoalbm.css  (4ms)  (pid 69317)
+Compiled application.css  (7ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 76ms (Views: 74.7ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-05 17:50:59 -0400
+Processing by HomeController#index as HTML
+  [1m[36mAlbum Load (0.2ms)[0m  [1mSELECT "albums".* FROM "albums" ORDER BY name[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "photos" WHERE "photos"."album_id" = 1
+  Rendered albums/_albums.html.haml (2.0ms)
+  Rendered home/index.html.haml within layouts/application (2.9ms)
+Compiled photoalbm.css  (4ms)  (pid 69317)
+Compiled application.css  (6ms)  (pid 69317)
+  Rendered layouts/_nav.html.erb (0.3ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 74ms (Views: 73.6ms | ActiveRecord: 0.5ms)
