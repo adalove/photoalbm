@@ -19881,3 +19881,1898 @@ Processing by HomeController#index as HTML
   Rendered layouts/_nav.html.erb (0.6ms)
   Rendered layouts/_footer.html.erb (0.1ms)
 Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:58:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (32.4ms)
+  Rendered layouts/_nav.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 111ms (Views: 69.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:58:59 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (4.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:59:32 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (17ms)  (pid 81049)
+Compiled application.css  (8ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 54ms (Views: 53.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:00:22 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (4.1ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:00:29 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:00:35 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:00:50 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:01:00 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (44ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:01:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (37ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 68ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:01:13 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 71.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:02:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:02:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:03:17 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 73.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:03:34 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:03:45 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:04:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:04:19 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (5ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:04:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 70ms (Views: 69.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:04:37 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 70ms (Views: 69.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:05:13 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 48ms
+
+Sass::SyntaxError - Invalid CSS after "  color: ": expected expression (e.g. 1px, bold), was ";"
+  (in /Users/Shefali/Documents/wdi3/projects/gallery/app/assets/stylesheets/photoalbm.scss):
+  app/assets/stylesheets/photoalbm.scss:21:in `'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1148:in `expected'
+  (gem) sass-3.2.7/lib/sass/script/lexer.rb:199:in `expected!'
+  (gem) sass-3.2.7/lib/sass/script/parser.rb:472:in `assert_expr'
+  (gem) sass-3.2.7/lib/sass/script/parser.rb:49:in `parse'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1022:in `sass_script'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:882:in `value!'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:859:in `declaration'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:582:in `block in declaration_or_ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1122:in `call'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1122:in `rethrow'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:554:in `block_child'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:546:in `block_contents'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:535:in `block'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:529:in `ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:553:in `block_child'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:546:in `block_contents'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:82:in `stylesheet'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:27:in `parse'
+  (gem) sass-3.2.7/lib/sass/engine.rb:342:in `_to_tree'
+  (gem) sass-3.2.7/lib/sass/engine.rb:315:in `_render'
+  (gem) sass-3.2.7/lib/sass/engine.rb:262:in `render'
+  (gem) sass-rails-3.2.6/lib/sass/rails/template_handlers.rb:106:in `evaluate'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/tilt-1.3.6/lib/tilt/template.rb:77:in `render'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:193:in `block in evaluate'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:190:in `each'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:190:in `evaluate'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:12:in `initialize'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:249:in `new'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:249:in `block in build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:270:in `circular_call_protection'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:248:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:93:in `block in build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:19:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:44:in `block in init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:37:in `map'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:37:in `init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/asset.rb:24:in `from_hash'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:15:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/bundled_asset.rb:38:in `init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/asset.rb:24:in `from_hash'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:15:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/environment.rb:78:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:177:in `[]'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:126:in `asset_for'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:44:in `block in stylesheet_link_tag'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:43:in `collect'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:43:in `stylesheet_link_tag'
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__4294806360962740732_70222463130060'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/template.rb:145:in `block in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/template.rb:143:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:18:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/remotipart-1.0.5/lib/remotipart/render_overrides.rb:14:in `render_with_remotipart'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__45715190815116669__process_action__608998515839609592__callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `each'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/app_request_handler.rb:11:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/rack-contrib-1.1.0/lib/rack/contrib/response_headers.rb:17:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/headers.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/meta_request_handler.rb:13:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/remotipart-1.0.5/lib/remotipart/middleware.rb:30:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/query_cache.rb:64:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__750773584373535743__call__3351046462790089550__callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70222462357960/variables" for 127.0.0.1 at 2013-06-07 13:05:13 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:05:20 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:06:00 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 69ms (Views: 68.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:06:08 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:06:26 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:06:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (43ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 77ms (Views: 76.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:07:08 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:07:17 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 75.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:07:39 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 71.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:07:54 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 35.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:08:00 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (5ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:08:23 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 38.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:08:30 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:08:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.8ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 75.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:08:54 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (6.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 15ms (Views: 14.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:11:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (3.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 10.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:11:38 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (3.9ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 11.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:12:11 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (40ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 68ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:12:22 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:12:29 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 9ms
+
+Sass::SyntaxError - Invalid CSS after "  height": expected ";", was ": 200px;"
+  (in /Users/Shefali/Documents/wdi3/projects/gallery/app/assets/stylesheets/photoalbm.scss):
+  app/assets/stylesheets/photoalbm.scss:7:in `'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1148:in `expected'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1084:in `expected'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1079:in `tok!'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:586:in `block in declaration_or_ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1122:in `call'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1122:in `rethrow'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:554:in `block_child'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:543:in `block_contents'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:535:in `block'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:529:in `ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:553:in `block_child'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:543:in `block_contents'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:82:in `stylesheet'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:27:in `parse'
+  (gem) sass-3.2.7/lib/sass/engine.rb:342:in `_to_tree'
+  (gem) sass-3.2.7/lib/sass/engine.rb:315:in `_render'
+  (gem) sass-3.2.7/lib/sass/engine.rb:262:in `render'
+  (gem) sass-rails-3.2.6/lib/sass/rails/template_handlers.rb:106:in `evaluate'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/tilt-1.3.6/lib/tilt/template.rb:77:in `render'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:193:in `block in evaluate'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:190:in `each'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:190:in `evaluate'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:12:in `initialize'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:249:in `new'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:249:in `block in build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:270:in `circular_call_protection'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:248:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:93:in `block in build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:19:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:44:in `block in init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:37:in `map'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:37:in `init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/asset.rb:24:in `from_hash'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:15:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/bundled_asset.rb:38:in `init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/asset.rb:24:in `from_hash'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:15:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/environment.rb:78:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:177:in `[]'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:126:in `asset_for'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:44:in `block in stylesheet_link_tag'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:43:in `collect'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:43:in `stylesheet_link_tag'
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__4294806360962740732_70222463130060'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/template.rb:145:in `block in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/template.rb:143:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:18:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/remotipart-1.0.5/lib/remotipart/render_overrides.rb:14:in `render_with_remotipart'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__45715190815116669__process_action__608998515839609592__callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `each'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/app_request_handler.rb:11:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/rack-contrib-1.1.0/lib/rack/contrib/response_headers.rb:17:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/headers.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/meta_request_handler.rb:13:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/remotipart-1.0.5/lib/remotipart/middleware.rb:30:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/query_cache.rb:64:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__750773584373535743__call__3351046462790089550__callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70222424615420/variables" for 127.0.0.1 at 2013-06-07 13:12:29 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:12:32 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:19:33 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (2.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:19:35 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:19:47 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:22:24 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:22:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:23:17 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (44ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:23:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:23:41 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:23:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:24:04 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:28:42 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.6ms)
+Completed 200 OK in 40ms (Views: 39.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:28:50 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:29:10 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:29:46 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (43ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:29:52 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.2ms)
+Completed 200 OK in 73ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:29:58 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:30:08 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 38.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:30:21 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (5ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:30:38 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 35.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:30:48 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (44ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:31:11 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 74.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:31:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:31:28 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:31:53 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:36:06 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:36:35 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (42ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:36:53 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 73.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:37:05 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 38.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:37:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:37:48 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 38.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:38:20 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:38:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (43ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:38:40 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Completed 500 Internal Server Error in 10ms
+
+Sass::SyntaxError - Invalid CSS after "  width": expected ";", was ": 300px;"
+  (in /Users/Shefali/Documents/wdi3/projects/gallery/app/assets/stylesheets/photoalbm.scss):
+  app/assets/stylesheets/photoalbm.scss:24:in `'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1148:in `expected'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1084:in `expected'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1079:in `tok!'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:586:in `block in declaration_or_ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1122:in `call'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:1122:in `rethrow'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:592:in `declaration_or_ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:554:in `block_child'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:546:in `block_contents'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:535:in `block'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:529:in `ruleset'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:553:in `block_child'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:546:in `block_contents'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:82:in `stylesheet'
+  (gem) sass-3.2.7/lib/sass/scss/parser.rb:27:in `parse'
+  (gem) sass-3.2.7/lib/sass/engine.rb:342:in `_to_tree'
+  (gem) sass-3.2.7/lib/sass/engine.rb:315:in `_render'
+  (gem) sass-3.2.7/lib/sass/engine.rb:262:in `render'
+  (gem) sass-rails-3.2.6/lib/sass/rails/template_handlers.rb:106:in `evaluate'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/tilt-1.3.6/lib/tilt/template.rb:77:in `render'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:193:in `block in evaluate'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:190:in `each'
+  (gem) sprockets-2.2.2/lib/sprockets/context.rb:190:in `evaluate'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:12:in `initialize'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:249:in `new'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:249:in `block in build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:270:in `circular_call_protection'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:248:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:93:in `block in build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:19:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:44:in `block in init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:37:in `map'
+  (gem) sprockets-2.2.2/lib/sprockets/processed_asset.rb:37:in `init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/asset.rb:24:in `from_hash'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:15:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/bundled_asset.rb:38:in `init_with'
+  (gem) sprockets-2.2.2/lib/sprockets/asset.rb:24:in `from_hash'
+  (gem) sprockets-2.2.2/lib/sprockets/caching.rb:15:in `cache_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:92:in `build_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:169:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/index.rb:60:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/environment.rb:78:in `find_asset'
+  (gem) sprockets-2.2.2/lib/sprockets/base.rb:177:in `[]'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:126:in `asset_for'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:44:in `block in stylesheet_link_tag'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:43:in `collect'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/sprockets/helpers/rails_helper.rb:43:in `stylesheet_link_tag'
+  app/views/layouts/application.html.erb:5:in `_app_views_layouts_application_html_erb__4294806360962740732_70222431628160'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/template.rb:145:in `block in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/template.rb:143:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:59:in `render_with_layout'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:45:in `render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/template_renderer.rb:18:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:36:in `render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_view/renderer/renderer.rb:17:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:110:in `_render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/streaming.rb:225:in `_render_template'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:103:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/renderers.rb:28:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/compatibility.rb:50:in `render_to_body'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:88:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:16:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block (2 levels) in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `block in ms'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/benchmark.rb:295:in `realtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/core_ext/benchmark.rb:5:in `ms'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:40:in `block in render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:83:in `cleanup_view_runtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:24:in `cleanup_view_runtime'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:39:in `render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/remotipart-1.0.5/lib/remotipart/render_overrides.rb:14:in `render_with_remotipart'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:10:in `default_render'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/implicit_render.rb:5:in `send_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:167:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rendering.rb:10:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:18:in `block in process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:414:in `_run__45715190815116669__process_action__608998515839609592__callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_process_action_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/callbacks.rb:17:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rescue.rb:29:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:30:in `block in process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `block in instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications/instrumenter.rb:20:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/notifications.rb:123:in `instrument'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/instrumentation.rb:29:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/params_wrapper.rb:207:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/railties/controller_runtime.rb:18:in `process_action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/base.rb:121:in `process'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/abstract_controller/rendering.rb:45:in `process'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal.rb:203:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal/rack_delegation.rb:14:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_controller/metal.rb:246:in `block in action'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:73:in `dispatch'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:36:in `call'
+  (gem) journey-1.0.4/lib/journey/router.rb:68:in `block in call'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `each'
+  (gem) journey-1.0.4/lib/journey/router.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/routing/route_set.rb:601:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/app_request_handler.rb:11:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/rack-contrib-1.1.0/lib/rack/contrib/response_headers.rb:17:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/headers.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/meta_request-0.2.2/lib/meta_request/middlewares/meta_request_handler.rb:13:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/best_standards_support.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/etag.rb:23:in `call'
+  (gem) rack-1.4.5/lib/rack/conditionalget.rb:25:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/head.rb:14:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/remotipart-1.0.5/lib/remotipart/middleware.rb:30:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/params_parser.rb:21:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/flash.rb:242:in `call'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:210:in `context'
+  (gem) rack-1.4.5/lib/rack/session/abstract/id.rb:205:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/cookies.rb:341:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/query_cache.rb:64:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activerecord-3.2.12/lib/active_record/connection_adapters/abstract/connection_pool.rb:479:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `_run__750773584373535743__call__3351046462790089550__callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:405:in `__run_callback'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:385:in `_run_call_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/callbacks.rb:81:in `run_callbacks'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/reloader.rb:65:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/remote_ip.rb:31:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:84:in `protected_app_call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:79:in `better_errors_call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/better_errors-0.7.2/lib/better_errors/middleware.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/debug_exceptions.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:32:in `call_app'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `block in call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/tagged_logging.rb:22:in `tagged'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/logger.rb:16:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/quiet_assets-1.0.2/lib/quiet_assets.rb:18:in `call_with_quiet_assets'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  (gem) rack-1.4.5/lib/rack/methodoverride.rb:21:in `call'
+  (gem) rack-1.4.5/lib/rack/runtime.rb:17:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/activesupport-3.2.12/lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  (gem) rack-1.4.5/lib/rack/lock.rb:15:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/actionpack-3.2.12/lib/action_dispatch/middleware/static.rb:62:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/engine.rb:479:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/application.rb:223:in `call'
+  (gem) rack-1.4.5/lib/rack/content_length.rb:14:in `call'
+  /Users/Shefali/.rvm/gems/ruby-1.9.3-p374@global/gems/railties-3.2.12/lib/rails/rack/log_tailer.rb:17:in `call'
+  (gem) rack-1.4.5/lib/rack/handler/webrick.rb:59:in `service'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  /Users/Shefali/.rvm/rubies/ruby-1.9.3-p374/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+
+Started POST "/__better_errors/70222432133720/variables" for 127.0.0.1 at 2013-06-07 13:38:40 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:39:06 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 36.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:39:14 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 35.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:39:22 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (43ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 76ms (Views: 76.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:45:48 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 73.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:46:10 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:46:45 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:48:34 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:48:49 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (47ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:48:54 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:49:01 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 76ms (Views: 75.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:49:19 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:49:43 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:49:53 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:53:43 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (38ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.6ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:53:50 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:54:39 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:54:52 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:54:54 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:54:57 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:55:18 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (5ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:55:56 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (37.0ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 44ms (Views: 44.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:56:03 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (2.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 9ms (Views: 9.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:56:27 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.7ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 72.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:56:34 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:56:37 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:56:48 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 39.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:57:00 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:57:48 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (2.5ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:57:55 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (7ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 38.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:58:00 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (43ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:58:14 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 74.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:58:48 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 39ms (Views: 39.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:58:58 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 81049)
+Compiled application.css  (10ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 39.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:59:16 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:59:30 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 69ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:59:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:59:39 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:59:44 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:59:46 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 13:59:50 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 13:59:53 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:00:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:00:18 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:00:21 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:00:23 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:00:36 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 38.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:00:42 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 37.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:08 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:11 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:12 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:19 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:23 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:27 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:31 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:33 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:38 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:01:39 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:44 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:01:52 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:01 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:02:09 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:02:16 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 40ms (Views: 39.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:19 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:02:21 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:23 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:26 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:02:27 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:29 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:51 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (9ms)  (pid 81049)
+Compiled application.css  (6ms)  (pid 81049)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:02:52 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:02:55 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:02:57 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:03:03 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 14:03:06 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 14:04:14 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms)

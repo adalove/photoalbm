@@ -6,27 +6,27 @@
 
 .row
   .large-12.columns
-    .large-10.columns
-      #emotitoneslogo
-    .large-2.columns
-    .large-8.columns
-      / Begin MailChimp Signup Form
-      %link{:href => "http://cdn-images.mailchimp.com/embedcode/slim-081711.css", :rel => "stylesheet", :type => "text/css"}/
-      :css
-        #mc_embed_signup{background:#00ABD4; clear:left; margin-top: 30px; font:14px Helvetica,Arial,sans-serif; }
-        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-      #mc_embed_signup
-        %form#mc-embedded-subscribe-form.validate{:action => "http://emotitones.us7.list-manage1.com/subscribe/post?u=aa1d15615c442d6da4ab9d765&id=56c9b03f76", :method => "post", :name => "mc-embedded-subscribe-form", :novalidate => "", :target => "_blank"}
-          %label{:for => "mce-EMAIL"} Emotitones 2.0 is coming. Sign up to be the first to know & become one of our VIPs!
-          VIPs get invites to secret meetups, product exclusives, random acts of kindness, and creations from our community of artists. We won't spam, we promise.
-          %br
-          %br
-          %input#mce-EMAIL.email{:name => "EMAIL", :placeholder => "email address", :required => "", :type => "email", :value => ""}/
-          .clear
-            %input#mc-embedded-subscribe.button{:name => "subscribe", :type => "submit", :value => "Subscribe"}/
-      / End mc_embed_signup
-    .large-4.columns
+    #emotitoneslogo
+    #morethanwords
+      = "more than words"
+  .large-10.columns
+    / Begin MailChimp Signup Form
+    %link{:href => "http://cdn-images.mailchimp.com/embedcode/slim-081711.css", :rel => "stylesheet", :type => "text/css"}/
+    :css
+      #mc_embed_signup{background:#00ABD4; clear:left; margin-top: 30px; font:14px Helvetica,Arial,sans-serif; }
+      /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+         We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    #mc_embed_signup
+      %form#mc-embedded-subscribe-form.validate{:action => "http://emotitones.us7.list-manage1.com/subscribe/post?u=aa1d15615c442d6da4ab9d765&id=56c9b03f76", :method => "post", :name => "mc-embedded-subscribe-form", :novalidate => "", :target => "_blank"}
+        %label{:for => "mce-EMAIL"} Emotitones 2.0 is coming. Sign up to be the first to know & become one of our VIPs!
+        VIPs get invites to secret meetups, product exclusives, random acts of kindness, and creations from our community of artists. We won't spam, we promise.
+        %br
+        %br
+        %input#mce-EMAIL.email{:name => "EMAIL", :placeholder => "email address", :required => "", :type => "email", :value => ""}/
+        .clear
+          %input#mc-embedded-subscribe.button{:name => "subscribe", :type => "submit", :value => "Subscribe"}/
+    / End mc_embed_signup
+  .large-2.columns
 
 
 
