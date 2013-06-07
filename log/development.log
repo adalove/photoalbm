@@ -18536,3 +18536,486 @@ Processing by HomeController#index as HTML
   Rendered layouts/_nav.html.erb (0.4ms)
   Rendered layouts/_footer.html.erb (0.3ms)
 Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:34:20 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (5.5ms)
+Compiled photoalbm.css  (14ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.9ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 142ms (Views: 123.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:35:01 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 67ms (Views: 66.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:35:11 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:35:49 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (7ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:36:20 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 73ms (Views: 72.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:48:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:51:21 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:55:03 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (3.4ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 10.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:55:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:55:32 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (35.3ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 43ms (Views: 42.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:55:35 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:55:42 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (3.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:56:01 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (7ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:56:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:59:25 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (9ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 11:59:36 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (45ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 77ms (Views: 76.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:00:04 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:00:19 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 69ms (Views: 68.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:02:24 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (10ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 41.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:02:33 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 35ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:02:41 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:03:05 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 68ms (Views: 68.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:03:14 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (42ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 70ms (Views: 69.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:03:22 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (44ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 73.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:03:38 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 70.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:03:48 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 72ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:03:52 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 35.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:04:19 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:04:30 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (7ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 37.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:04:46 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 70ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:04:50 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 70ms (Views: 70.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:05:07 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (38ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 74ms (Views: 74.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:05:16 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 71.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:05:25 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (2.3ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 10.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:05:34 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:05:39 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:05:55 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (37ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 69ms (Views: 68.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:06:10 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (7ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 71ms (Views: 71.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:06:21 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 36ms (Views: 36.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:06:24 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:06:28 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:06:29 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:06:36 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:06:39 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:06:40 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.3ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:06:42 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 8.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:06:49 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (42ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 75ms (Views: 74.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:06:51 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:06:53 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 41ms (Views: 40.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:07:01 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+Compiled photoalbm.css  (8ms)  (pid 80482)
+Compiled application.css  (6ms)  (pid 80482)
+  Rendered layouts/_nav.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 37ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/signups" for 127.0.0.1 at 2013-06-07 12:07:02 -0400
+Processing by SignupsController#index as HTML
+  Rendered signups/index.html.haml within layouts/application (0.2ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-06-07 12:07:04 -0400
+Processing by HomeController#index as HTML
+  Rendered home/index.html.haml within layouts/application (0.1ms)
+  Rendered layouts/_nav.html.erb (0.4ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 7ms (Views: 7.1ms | ActiveRecord: 0.0ms)
